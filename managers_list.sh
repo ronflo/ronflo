@@ -4,3 +4,6 @@ olivia
 ray
 javes 
 Pefok
+funmi
+dele
+okiri
